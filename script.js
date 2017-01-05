@@ -1,3 +1,7 @@
-$("#button").click(function(){
-$("li").css("color", "blue");
+$(document).ready(function(){
+    
+
+    $(".button").click(function(){
+        $("#change").css("color", "blue");
+    });
 });

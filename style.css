@@ -1,4 +1,22 @@
-#yay {
-    height:500px;
-    width:500px;
+body{
+    background-image:url("https://media.giphy.com/media/CkBzt6qXCCXw4/giphy.gif");
+}
+#h1 {
+    color:blue;
+    font-size:35px;
+    font-style:italic;
+}
+#change {
+     list-style-type: disc;
+     color:green;
+     font-size:25px;
+     
+}
+.button {
+    color:green;
+    background-color:blue;
+    border:dotted;
+    border-color:green;
+    font-size:20px;
+    
 }
